@@ -1,0 +1,55 @@
+8:25:50 AM  [main] 	Initializing Control Panel
+8:25:50 AM  [main] 	Windows Version:  Enterprise  64-bit
+8:25:50 AM  [main] 	XAMPP Version: 8.2.4
+8:25:50 AM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+8:25:50 AM  [main] 	You are not running with administrator rights! This will work for
+8:25:50 AM  [main] 	most application stuff but whenever you do something with services
+8:25:50 AM  [main] 	there will be a security dialogue or things will break! So think 
+8:25:50 AM  [main] 	about running this application with administrator rights!
+8:25:50 AM  [main] 	XAMPP Installation Directory: "d:\mis project\"
+8:25:50 AM  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+8:25:50 AM  [main] 	Checking for prerequisites
+8:25:52 AM  [main] 	All prerequisites found
+8:25:52 AM  [main] 	Initializing Modules
+8:25:52 AM  [main] 	Starting Check-Timer
+8:25:52 AM  [main] 	Control Panel Ready
+8:25:54 AM  [Apache] 	Attempting to start Apache app...
+8:25:54 AM  [Apache] 	Status change detected: running
+8:25:55 AM  [mysql] 	Attempting to start MySQL app...
+8:25:56 AM  [mysql] 	Status change detected: running
+8:25:59 AM  [mysql] 	Status change detected: stopped
+8:25:59 AM  [mysql] 	Error: MySQL shutdown unexpectedly.
+8:25:59 AM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+8:25:59 AM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+8:25:59 AM  [mysql] 	Press the Logs button to view error logs and check
+8:25:59 AM  [mysql] 	the Windows Event Viewer for more clues
+8:25:59 AM  [mysql] 	If you need more help, copy and post this
+8:25:59 AM  [mysql] 	entire log window on the forums
+8:26:57 AM  [Apache] 	Attempting to stop Apache (PID: 2332)
+8:26:57 AM  [Apache] 	Attempting to stop Apache (PID: 14036)
+8:26:57 AM  [Apache] 	Status change detected: stopped
+8:26:58 AM  [Apache] 	Attempting to start Apache app...
+8:26:58 AM  [Apache] 	Status change detected: running
+8:26:59 AM  [mysql] 	Attempting to start MySQL app...
+8:26:59 AM  [mysql] 	Status change detected: running
+8:27:01 AM  [mysql] 	Status change detected: stopped
+8:27:01 AM  [mysql] 	Error: MySQL shutdown unexpectedly.
+8:27:01 AM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+8:27:01 AM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+8:27:01 AM  [mysql] 	Press the Logs button to view error logs and check
+8:27:01 AM  [mysql] 	the Windows Event Viewer for more clues
+8:27:01 AM  [mysql] 	If you need more help, copy and post this
+8:27:01 AM  [mysql] 	entire log window on the forums
+8:27:02 AM  [mysql] 	Attempting to start MySQL app...
+8:27:03 AM  [mysql] 	Status change detected: running
+8:27:05 AM  [mysql] 	Status change detected: stopped
+8:27:05 AM  [mysql] 	Error: MySQL shutdown unexpectedly.
+8:27:05 AM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+8:27:05 AM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+8:27:05 AM  [mysql] 	Press the Logs button to view error logs and check
+8:27:05 AM  [mysql] 	the Windows Event Viewer for more clues
+8:27:05 AM  [mysql] 	If you need more help, copy and post this
+8:27:05 AM  [mysql] 	entire log window on the forums
+8:38:03 AM  [main] 	Deinitializing Modules
+8:38:03 AM  [main] 	Deinitializing Control Panel
+
